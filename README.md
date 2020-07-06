@@ -10,3 +10,5 @@
 	- [Ugly Number II](https://www.geeksforgeeks.org/ugly-numbers/)
 5. July 5
 	- [Hamming Distance](https://www.geeksforgeeks.org/hamming-distance-between-two-integers/)
+6. July 6
+	- [Plus One](https://www.geeksforgeeks.org/adding-one-to-number-represented-as-array-of-digits/)
