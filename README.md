@@ -15,4 +15,6 @@
 7. July 7
 	- [Island Perimeter](https://www.geeksforgeeks.org/find-perimeter-shapes-formed-1s-binary-matrix/)
 8. July 8
-	- [3 Sum]()
+	- [3 Sum](https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/)
+9. July 9
+	- [Maximum Width of Binary Tree](https://www.geeksforgeeks.org/maximum-width-of-a-binary-tree/)
