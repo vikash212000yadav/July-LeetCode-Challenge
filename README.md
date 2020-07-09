@@ -14,3 +14,5 @@
 	- [Plus One](https://www.geeksforgeeks.org/adding-one-to-number-represented-as-array-of-digits/)
 7. July 7
 	- [Island Perimeter](https://www.geeksforgeeks.org/find-perimeter-shapes-formed-1s-binary-matrix/)
+8. July 8
+	- [3 Sum]()
