@@ -18,3 +18,7 @@
 	- [3 Sum](https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/)
 9. July 9
 	- [Maximum Width of Binary Tree](https://www.geeksforgeeks.org/maximum-width-of-a-binary-tree/)
+10. July 10
+	- ...
+11. July 11
+	- [Subsets](https://www.geeksforgeeks.org/find-distinct-subsets-given-set/)
