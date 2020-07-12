@@ -22,3 +22,5 @@
 	- ...
 11. July 11
 	- [Subsets](https://www.geeksforgeeks.org/find-distinct-subsets-given-set/)
+12. July 12
+	- [Reverse Bits](https://www.tutorialspoint.com/reverse-bits-in-cplusplus)
