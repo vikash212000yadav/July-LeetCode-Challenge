@@ -26,3 +26,5 @@
 	- [Reverse Bits](https://www.tutorialspoint.com/reverse-bits-in-cplusplus)
 13. July 13
 	- [Same Tree](https://www.geeksforgeeks.org/iterative-function-check-two-trees-identical/)
+14. July 14
+	- [Angle Between Hands of a Clock](https://www.geeksforgeeks.org/calculate-angle-hour-hand-minute-hand/)
