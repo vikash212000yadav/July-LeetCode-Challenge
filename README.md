@@ -30,3 +30,5 @@
 	- [Angle Between Hands of a Clock](https://www.geeksforgeeks.org/calculate-angle-hour-hand-minute-hand/)
 15. July 15
 	- [Reverse Words in a String](https://www.geeksforgeeks.org/reverse-words-in-a-given-string/)
+16. July 16
+	- [Pow(x,n)](https://www.geeksforgeeks.org/power-function-cc/)
