@@ -34,3 +34,7 @@
 	- [Pow(x,n)](https://www.geeksforgeeks.org/power-function-cc/)
 17. July 17
 	- [Top K Frequent Elements](https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/)
+18. July 18
+	- ...
+19. July 19
+	- [Add Binary](https://www.geeksforgeeks.org/program-to-add-two-binary-strings/)
