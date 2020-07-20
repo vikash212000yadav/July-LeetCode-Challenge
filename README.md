@@ -38,3 +38,5 @@
 	- ...
 19. July 19
 	- [Add Binary](https://www.geeksforgeeks.org/program-to-add-two-binary-strings/)
+20. July 20
+	- [Remove Linked List Elements](https://www.geeksforgeeks.org/delete-occurrences-given-key-linked-list/)
