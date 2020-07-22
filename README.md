@@ -40,3 +40,7 @@
 	- [Add Binary](https://www.geeksforgeeks.org/program-to-add-two-binary-strings/)
 20. July 20
 	- [Remove Linked List Elements](https://www.geeksforgeeks.org/delete-occurrences-given-key-linked-list/)
+21. July 21
+	- ...
+22. July 22
+	- [Binary Tree Zigzag Level Order Traversal](https://www.geeksforgeeks.org/zigzag-tree-traversal/)
