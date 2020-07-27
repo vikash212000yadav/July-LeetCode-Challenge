@@ -49,6 +49,6 @@
 24. July 24
 	- ...
 25. July 25
-	- ...
+	- [Find Minimum in Rotated Sorted Array II](https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/)
 26. July 26
 	- [Add Digits](https://www.geeksforgeeks.org/finding-sum-of-digits-of-a-number-until-sum-becomes-single-digit/)
