@@ -46,3 +46,9 @@
 	- [Binary Tree Zigzag Level Order Traversal](https://www.geeksforgeeks.org/zigzag-tree-traversal/)
 23. July 23
 	- [Single Number III](https://www.tutorialspoint.com/single-number-iii-in-cplusplus)
+24. July 24
+	- ...
+25. July 25
+	- ...
+26. July 26
+	- [Add Digits](https://www.geeksforgeeks.org/finding-sum-of-digits-of-a-number-until-sum-becomes-single-digit/)
